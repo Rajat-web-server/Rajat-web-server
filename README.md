@@ -28,4 +28,70 @@ A customer support and ticket management application built around a **REST API, 
 
 ---
 
+## 🛠️ Languages & Tools
+
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,php" />
+</p>
+
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+</p>
+
+### Backend & Database
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,prisma" />
+</p>
+
+### Tools & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux" />
+</p>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Rajat-web-server&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=github_dark"
+    height="180"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajat-web-server&layout=compact&hide_border=true&theme=github_dark"
+    height="180"
+  />
+</p>
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=Rajat-web-server&hide_border=true&theme=github-dark"
+    height="180"
+  />
+</p>
+
+## 📚 Currently Learning
+
+- ☁️ Cloud & DevOps
+- 🏗️ System Design
+- 🤖 Agentic AI
+- 🔐 Backend Architecture & Authentication
+- 🧠 Data Structures & Algorithms
+  
+## 📫 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/rajat-pandey-423b7434a/">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
+  </a>
+  <a href="https://github.com/Rajat-web-server/">
+    <img src="https://skillicons.dev/icons?i=github" width="45" />
+  </a>
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=twitter" width="45" />
+  </a>
+</p>
+<br>
 > 🚀 Currently learning, building, breaking things, and putting them back together.
