@@ -50,19 +50,6 @@ A customer support and ticket management application built around a **REST API, 
   <img src="https://skillicons.dev/icons?i=git,github,docker,linux" />
 </p>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Rajat-web-server&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=github_dark"
-    height="180"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajat-web-server&layout=compact&hide_border=true&theme=github_dark"
-    height="180"
-  />
-</p>
-
 ## 🔥 GitHub Streak
 
 <p align="center">
